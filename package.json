@@ -6,6 +6,7 @@
   "scripts": {
     "start":"resume serve --theme classy",
     "build":"resume export index.html --theme classy",
+    "push":"npm run build && git add index.html resume.json && git commit -m 'Update' && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
