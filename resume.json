@@ -1,0 +1,185 @@
+{
+  "basics": {
+    "name": "Chris Nienhuis",
+    "label": "Web Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKsAAAAJDcwNjFmZjcyLWM0OTQtNGJkYS05ZTI1LWMzMmU2NDkxMTAyNA.jpg",
+    "email": "neenhouse@gmail.com",
+    "phone": "(512) 468-7253",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "11406 Pyreneese Drive",
+      "postalCode": "TX 78759",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "neenhouse",
+        "url": "https://www.linkedin.com/in/neenhouse"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Advisory Board Company",
+      "position": "Principal Front-End Engineer",
+      "website": "http://advisory.com",
+      "startDate": "2012-04-01",
+      "endDate": "",
+      "summary": "Technical lead for performance technology products. Advocated UX and open source. Relied on strong prototypes to prove concepts.",
+      "highlights": [
+        "Authored MEAN stack and C# WebApi v2 solution for data platform project",
+        "Automated deployment processes with groovy, powershell, and nodeJS scripts in Jenkins and Bamboo",
+        "Wrote full E2E and unit test suites",
+        "Developed analytics product strategy and best practices",
+        "Contributed several prototypes to NPD efforts",
+        "Created and led FEE 101, 201, AngularJS, and ReactJS trainings for the organization in Austin and Chennai",
+        "Created dependency-free C#/NodeJS build integration. Released internal and open source versions.",
+        "Modernized legacy PHP UI project",
+        "Established open source and engineering blog processes",
+        "Formed cross product AngularJS team that created best practice and common code",
+        "Developed vendor relationships and faciliated securitiy and legal processes",
+        "Write close to 100 reusable UI components implementing company style framework",
+        "Co-organized and presented at Austin AngularJS meetup group",
+        "Mentored developers in Austin and Chennai"
+      ]
+    },
+    {
+      "company": "Tippr",
+      "position": "UI/UX Architect",
+      "website": "",
+      "startDate": "2011-08-01",
+      "endDate":"2012-04-01",
+      "summary": "Established UI architecture for a daily deals company focused on scalability. Conceptualized product views and work ows through detailed wireframes and mockups.",
+      "highlights": [
+        "Created and implemented architectural strategy that encapsulated UI as an application package that could stand alone or integrate into existing UI.",
+        "Designed and implemented new architectural strategy for marketplace and calendar UI.",
+        "Mentored other developers."
+      ]
+    },
+    {
+      "company": "Dell MessageOne",
+      "position": "UI Engineer",
+      "website": "",
+      "startDate": "2011-08-01",
+      "endDate":"2008-07-01",
+      "summary": "Developed Web RIA UI for alerting SaaS and guided o shore teams in Bangalore.  Quickly integrated with development team and expedited several key features in RIA style web application designed to meet tight project deadlines. Accelerated product development by coaching Austin and Scottish teams.",
+      "highlights": [
+        "Created mobile application prototype compatible with iPhone, Android, and Blackberry.",
+        "Innovated and developed extensive library of reusable UI components.",
+        "Provided code mentoring to the Bangalore Development Center through weekly conference calls and demonstrated code samples.",
+        "Developed UI test automation framework and UI test automation framework",
+        "Developed several key extendable features in UI architecture such as search/sort/ lter, lists, and trees.",
+        "Optimized UI performance by an average of 38% and refactored the codebase by over 100% in some instances.",
+        "Created API documentation strategy integrating documentation generation into automated build process and coding best commenting practices.",
+        "Enforced best practice code patterns in javascript by requiring implementation in extended code."
+      ]
+    },
+    {
+      "company": "QuantumDigital",
+      "position": "UI Engineer",
+      "website": "",
+      "startDate": "2008-07-01",
+      "endDate":"2007-06-01",
+      "summary":"Developed web UI and improved internal work  ows. Strengthened general UI expertise of team.",
+      "highlights":[
+        "Streamlined marketing department’s processes by integrating sales force with internal landing pages and survey results.",
+        "Innovated new batching process that automated importing marketing templates built in Adobe Photoshop into internal company marketing tool in HTML compliant format.",
+        "Modernized website menus and internal legacy forms.",
+        "Migrated CVS Repositories to Subversion by implementing new source control workflow.",
+        "Generated statistics from various data sources and presented results to executive team."
+      ]
+    },
+    {
+      "company": "International Studies Abroad",
+      "position": "Web Developer",
+      "website": "www.studiesabroad.com",
+      "startDate": "2007-06-01",
+      "endDate":"2006-05-01",
+      "summary":"Brought focus to user experience and performed end-to-end development for public website and internal web applications.",
+      "highlights":[
+        "Implemented website redesign in CSS from mockups.",
+        "Extended functionality and consolidated base API framework.",
+        "Increased content scalability by converting static pages to dynamically driven pages (total unique URL count increased from 35,000 to 150,000).",
+        "Collaborated with site specialists to make series of internal web form improvements used to update website content.",
+        "Conducted system analysis to determine the most user-friendly and efficient implementation of service API. Implemented recommended enhancements that reduced page load time by 66 percent and vastly improved speed of user interactions.",
+        "Designed and implemented a new  exible information system which allowed users to add information to the main website.",
+        "Created new user interactions that enhanced user experience and resulted in 10–15x faster workflows in some cases."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005",
+      "endDate": "2000"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Advisory Board Fellowship",
+      "date": "2016-01-01",
+      "awarder": "Advisory Board Company",
+      "summary": "Selective leadership program"
+    },
+    {
+      "title": "Crimson Hackathon",
+      "date": "2014-10-15",
+      "awarder": "Advisory Board",
+      "summary": "Won company hackathon implementing a D3 visualization of JS complexity analyzer connected to a socket server running async NodeJS tasks that walked through source control timelines."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end Development",
+      "keywords": [
+        "ES6/7",
+        "CSS2/3",
+        "HTML5",
+        "ReactJS",
+        "AngularJS",
+        "JQuery/JQueryUI",
+        "LESS/SASS",
+        "CSS Grids",
+        "Gulp/Webpack",
+        "ExpressJS"
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "Photoshop/Affinity Designer",
+        "Balsamiq",
+        "Gliffy",
+        "Responsive",
+        "UX Principles"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "keywords": [
+        "NodeJS",
+        "C#",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "MongoDB",
+        "Redis",
+        "PostGres",
+        "ORM",
+        "Db Design"
+      ]
+    }
+  ],
+  "interests":null,
+  "volunteer":null,
+  "languages":null
+}
