@@ -1,0 +1,24 @@
+{
+  "name": "neenhouse.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"resume serve --theme classy",
+    "build":"resume export index.html --theme classy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neenhouse/neenhouse.github.io.git"
+  },
+  "author": "Chris Nienhuis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neenhouse/neenhouse.github.io/issues"
+  },
+  "homepage": "https://github.com/neenhouse/neenhouse.github.io",
+  "dependencies": {
+    "resume-cli": "^0.4.11"
+  }
+}
