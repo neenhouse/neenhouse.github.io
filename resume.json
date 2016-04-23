@@ -123,14 +123,14 @@
   "awards": [
     {
       "title": "Advisory Board Fellowship",
-      "date": "2016-01-01",
+      "date": "2016-02-01",
       "awarder": "Advisory Board Company",
-      "summary": "Selective leadership program"
+      "summary": "The Advisory Board Fellowship is an annual cohort-based program for our firm’s high-potential talent to foster recognition, leadership development, executive exposure, and networking."
     },
     {
-      "title": "Crimson Hackathon",
+      "title": "Crimson FEE Hackathon Winner",
       "date": "2014-10-15",
-      "awarder": "Advisory Board",
+      "awarder": "Advisory Board Company",
       "summary": "Won company hackathon implementing a D3 visualization of JS complexity analyzer connected to a socket server running async NodeJS tasks that walked through source control timelines."
     }
   ],
@@ -146,7 +146,8 @@
         "JQuery/JQueryUI",
         "LESS/SASS",
         "CSS Grids",
-        "Gulp/Webpack",
+        "Gulp",
+        "Webpack",
         "ExpressJS"
       ]
     },
@@ -154,9 +155,9 @@
       "name": "Design",
       "keywords": [
         "Photoshop/Affinity Designer",
-        "Balsamiq",
-        "Gliffy",
+        "Balsamiq/Gliffy",
         "Responsive",
+        "Mobile",
         "UX Principles"
       ]
     },
@@ -174,6 +175,7 @@
         "MongoDB",
         "Redis",
         "PostGres",
+        "MsSQL",
         "ORM",
         "Db Design"
       ]
