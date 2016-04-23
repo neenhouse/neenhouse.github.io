@@ -28,7 +28,6 @@
       "position": "Principal Front-End Engineer",
       "website": "http://advisory.com",
       "startDate": "2012-04-01",
-      "endDate": "",
       "summary": "Technical lead for performance technology products. Advocated UX and open source. Relied on strong prototypes to prove concepts.",
       "highlights": [
         "Authored MEAN stack and C# WebApi v2 solution for data platform project",
@@ -116,8 +115,8 @@
       "institution": "University of Texas",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2005",
-      "endDate": "2000"
+      "startDate": "2000-08-30",
+      "endDate": "2004-05-30"
     }
   ],
   "awards": [
@@ -125,7 +124,7 @@
       "title": "Advisory Board Fellowship",
       "date": "2016-02-01",
       "awarder": "Advisory Board Company",
-      "summary": "The Advisory Board Fellowship is an annual cohort-based program for our firm’s high-potential talent to foster recognition, leadership development, executive exposure, and networking."
+      "summary": "The Advisory Board Fellowship is an annual cohort-based program for our firm's high-potential talent to foster recognition, leadership development, executive exposure, and networking."
     },
     {
       "title": "Crimson FEE Hackathon Winner",
@@ -175,13 +174,13 @@
         "MongoDB",
         "Redis",
         "PostGres",
-        "MsSQL",
-        "ORM",
+        "MSSQL",
+        "ORMs",
         "Db Design"
       ]
     }
   ],
-  "interests":null,
-  "volunteer":null,
-  "languages":null
+  "interests":[],
+  "volunteer":[],
+  "languages":[]
 }
