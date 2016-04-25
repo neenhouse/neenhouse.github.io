@@ -28,22 +28,22 @@
       "position": "Principal Front-End Engineer",
       "website": "http://advisory.com",
       "startDate": "2012-04-01",
-      "summary": "Technical lead for performance technology products. Advocated UX and open source. Relied on strong prototypes to prove concepts.",
+      "summary": "Technical lead for product development and platform inititives. Advocate for UX and DX. Built strong and positive team culture.",
       "highlights": [
-        "Authored MEAN stack and C# WebApi v2 solution for data platform project",
-        "Automated deployment processes with groovy, powershell, and nodeJS scripts in Jenkins and Bamboo",
-        "Wrote full E2E and unit test suites",
-        "Developed analytics product strategy and best practices",
-        "Contributed several prototypes to NPD efforts",
+        "Authored MEAN stack and C# WebApi v2 solution for data platform project.",
+        "Automated deployment processes with groovy, powershell, and nodeJS scripts in Jenkins and Bamboo.",
+        "Wrote E2E and unit test suites.",
+        "Created product analytics strategy recommedations and implemented them across product teams.",
+        "Recommended and developed vendor relationships by working with securitiy and legal to faciliate business agreements.",
+        "Built several prototypes for NPD efforts",
         "Created and led FEE 101, 201, AngularJS, and ReactJS trainings for the organization in Austin and Chennai",
         "Created dependency-free C#/NodeJS build integration. Released internal and open source versions.",
-        "Modernized legacy PHP UI project",
-        "Established open source and engineering blog processes",
-        "Formed cross product AngularJS team that created best practice and common code",
-        "Developed vendor relationships and faciliated securitiy and legal processes",
-        "Write close to 100 reusable UI components implementing company style framework",
-        "Co-organized and presented at Austin AngularJS meetup group",
-        "Mentored developers in Austin and Chennai"
+        "Modernized legacy PHP UI with modern build tools and trained development team how to use them.",
+        "Established open source policies and engineering blog processes.",
+        "Formed cross product AngularJS team that created best practice and common code.",
+        "Wrote close to 100 reusable UI components implementing company style framework.",
+        "Co-organized and presented at Austin AngularJS meetup group.",
+        "Mentored developers in Austin and Chennai."
       ]
     },
     {
@@ -52,7 +52,7 @@
       "website": "",
       "startDate": "2011-08-01",
       "endDate":"2012-04-01",
-      "summary": "Established UI architecture for a daily deals company focused on scalability. Conceptualized product views and work ows through detailed wireframes and mockups.",
+      "summary": "Established UI architecture for a daily deals company focused on scalability. Conceptualized product views and workflows through detailed wireframes and mockups.",
       "highlights": [
         "Created and implemented architectural strategy that encapsulated UI as an application package that could stand alone or integrate into existing UI.",
         "Designed and implemented new architectural strategy for marketplace and calendar UI.",
@@ -65,7 +65,7 @@
       "website": "",
       "startDate": "2011-08-01",
       "endDate":"2008-07-01",
-      "summary": "Developed Web RIA UI for alerting SaaS and guided o shore teams in Bangalore.  Quickly integrated with development team and expedited several key features in RIA style web application designed to meet tight project deadlines. Accelerated product development by coaching Austin and Scottish teams.",
+      "summary": "Developed Web RIA UI for alerting SaaS and guided development team in Bangalore.  Quickly integrated with development team and expedited several key features in RIA style web application designed to meet tight project deadlines. Accelerated product development by coaching Austin and Scottish teams.",
       "highlights": [
         "Created mobile application prototype compatible with iPhone, Android, and Blackberry.",
         "Innovated and developed extensive library of reusable UI components.",
@@ -83,7 +83,7 @@
       "website": "",
       "startDate": "2008-07-01",
       "endDate":"2007-06-01",
-      "summary":"Developed web UI and improved internal work  ows. Strengthened general UI expertise of team.",
+      "summary":"Developed web UI and improved internal workflows. Strengthened general UI expertise of team.",
       "highlights":[
         "Streamlined marketing department’s processes by integrating sales force with internal landing pages and survey results.",
         "Innovated new batching process that automated importing marketing templates built in Adobe Photoshop into internal company marketing tool in HTML compliant format.",
